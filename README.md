@@ -1,2 +1,2 @@
 # git-helloworld
-first test git with simple code
+first test git with simple c code.
